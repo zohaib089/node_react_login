@@ -1,0 +1,15 @@
+{
+"mongoURI": "mongodb+srv://zohaib:1234567890@cluster0.oeo9f.mongodb.net/<dbname>?retryWrites=true&w=majority",
+"jwtSecret": "secret"
+  }
+
+
+
+
+
+
+
+
+
+
+
